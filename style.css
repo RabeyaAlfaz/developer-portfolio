@@ -17,8 +17,7 @@ margin-bottom: 150px;
 .half-width
 {
     width: 50%;
-    padding-left: 5%;
-}
+    padding-left: 5%;}
 .half-width img
 {
 width: 80%;
@@ -46,3 +45,19 @@ width: 80%;
     background-position:right;
 }
 
+.orange-color
+{
+    color: orange;
+}
+.experience-item
+{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    border-left: 10px;
+    border-color: rgb(10, 15, 15);
+    box-shadow: 10px 10px 40px 10px teal;
+}
