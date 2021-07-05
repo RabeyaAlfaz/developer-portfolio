@@ -9,7 +9,7 @@ h1{
 span {
     color: orange;
 }
-section
+.felxible-container
 {
     display: flex;
 margin-bottom: 150px;
@@ -43,5 +43,6 @@ width: 80%;
 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:right;
 }
+
